@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="MyGroups">
+            <file>file:/C:/xampp/htdocs/myprog/default.js</file>
+            <file>file:/C:/xampp/htdocs/myprog/default.css</file>
+            <file>file:/C:/xampp/htdocs/myprog/index.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/database.php</file>
+        </group>
+        <group name="database">
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/css/default.css</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/index.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/libs/Database.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/controllers/hime.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/js/default.js</file>
+            <file>file:/C:/xampp/htdocs/myprog/index.php</file>
+        </group>
+        <group name="WWW">
+            <file>file:/C:/xampp/htdocs/myprog/controllers/hime.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/css/default.css</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/index.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/js/default.js</file>
+            <file>file:/C:/xampp/htdocs/myprog/libs/Database.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/index.php</file>
+        </group>
+        <group name="MyGroup1"/>
+        <group name="NurseManage">
+            <file>file:/C:/xampp/htdocs/myprog/controllers/hime.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/index.php</file>
+            <file>file:/C:/xampp/htdocs/myprog/views/hime/js/default.js</file>
+        </group>
+        <group/>
+        <group name="SKH"/>
+        <group name="Yii2">
+            <file>file:/C:/xampp/htdocs/mpz/libs/Bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/mpz/config/paths.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,14 @@
+/*
+html, body, .container {
+    height: 100%;
+}
+*/
+textarea.form-control {
+    height: 300px;
+}
+.textareacontainer{
+    height: 100%; 
+    width: 50%; 
+    float: left; 
+    padding: 10px;
+}
