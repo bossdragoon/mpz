@@ -1,5 +1,5 @@
 <?php
-define('URL', "http://{$_SERVER["HTTP_HOST"]}/mpz/");
+define('URL', "http://{$_SERVER["HTTP_HOST"]}/");
 define('SYSTEM_NAME', 'Supply Center');
 define('DEPARTMENT_NAME', '');
 define('TITLE_SYSTEM_NAME', 'My PlayZones');

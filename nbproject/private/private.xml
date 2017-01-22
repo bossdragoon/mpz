@@ -34,9 +34,6 @@
         </group>
         <group/>
         <group name="SKH"/>
-        <group name="Yii2">
-            <file>file:/C:/xampp/htdocs/mpz/libs/Bootstrap.php</file>
-            <file>file:/C:/xampp/htdocs/mpz/config/paths.php</file>
-        </group>
+        <group name="Yii2"/>
     </open-files>
 </project-private>
